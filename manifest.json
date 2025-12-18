@@ -1,6 +1,6 @@
 {
   "manifest_version":3,
-  "name":"New Extension",
+  "name":"MemeMask",
   "version":"1.0",
   "content_scripts":[
     {
@@ -8,4 +8,5 @@
         "js":["content.js"]
     }
   ]
+
 }
