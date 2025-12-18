@@ -30,5 +30,8 @@ It uses JavaScript DOM manipulation through a Chrome content script to dynamical
 - Support more websites
 - Popup UI
 
+## Demo
+<img width="1617" height="721" alt="image" src="https://github.com/user-attachments/assets/f6a099c1-b642-4428-9163-78d1e96d382b" />
+
 ---
 **Your web. Your images.**
