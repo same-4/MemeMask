@@ -31,6 +31,8 @@ It uses JavaScript DOM manipulation through a Chrome content script to dynamical
 - Popup UI
 
 ## Demo
+ All images on YouTube replaced dynamically using MemeMask
+
 <img width="1617" height="721" alt="image" src="https://github.com/user-attachments/assets/f6a099c1-b642-4428-9163-78d1e96d382b" />
 
 ---
